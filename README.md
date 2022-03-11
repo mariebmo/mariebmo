@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=mariestigen)
+
 ### Hi there 👋
 
 [<img src="https://user-images.githubusercontent.com/23049454/157689691-8dcb231e-9dc2-464e-bcf9-2362c0abfda4.png" width="16"/> Linkedin](https://www.linkedin.com/in/marie-stigen/)
@@ -37,7 +39,11 @@
  </div>
 
 
+---
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mariestigen&show_icons=true)
+
+---
 
 
 <!--
