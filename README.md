@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[<img src="https://user-images.githubusercontent.com/23049454/157689691-8dcb231e-9dc2-464e-bcf9-2362c0abfda4.png" width="16"/> Linkedin](https://www.linkedin.com/in/marie-stigen/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marie-stigen/)
 
 ---
 
@@ -20,6 +20,7 @@
 ---
 
 #### Languages & Tools
+
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32"/>
