@@ -8,7 +8,7 @@
 #### Personal Github Organizations
 
 [<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" />  Github - Education](https://github.com/mariestigen-edu)
-*Projects created for educucational purposes. It contains exams, tasks, workshops ++*
+*Projects created for educucational purposes. It contains exams, courses, workshops*
 
 [<img src="https://avatars.githubusercontent.com/u/95485869?s=200&v=4" width="32"/>  Github - Personal Projects](https://github.com/mariestigen-personal-projects)
 *Personal projects that is not currently under development, to maintain a cleaner main profile*
