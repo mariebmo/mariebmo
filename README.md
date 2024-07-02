@@ -5,15 +5,15 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marie-stigen/)
 ---
 
-#### Personal Github Organizations
+### Personal Github Organizations
 
-[<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" />  Github - Education](https://github.com/mariebmo-edu)
-*Projects created for educucational purposes. It contains exams, courses, workshops*
+#### [<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" />  Github - Education](https://github.com/mariebmo-edu)
+*Projects created for personal educucational purposes. It contains exams, courses, workshops*
 
-[<img src="https://avatars.githubusercontent.com/u/95485869?s=200&v=4" width="32"/>  Github - Personal Projects](https://github.com/mariebmo-personal-projects)
+#### [<img src="https://avatars.githubusercontent.com/u/95485869?s=200&v=4" width="32"/>  Github - Personal Projects](https://github.com/mariebmo-personal-projects)
 *Personal projects that is not currently under development, to maintain a cleaner main profile*
 
-[<img src="https://avatars.githubusercontent.com/u/95485899?s=200&v=4" width="32"/>  Github - Challenges](https://github.com/mariebmo-challenges)
+#### [<img src="https://avatars.githubusercontent.com/u/95485899?s=200&v=4" width="32"/>  Github - Challenges](https://github.com/mariebmo-challenges)
 *Projects that is based on challanges such as Advent of code or Hacktober*
 
 ---
@@ -48,19 +48,3 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mariebmo&show_icons=true)
 
 ---
-
-
-<!--
-**mariestigen/mariestigen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
