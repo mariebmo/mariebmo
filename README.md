@@ -5,15 +5,19 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marie-stigen/)
 ---
 
-### Personal Github Organizations
+## Currently Working on
 
-#### [<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="32" />  Github - Education](https://github.com/mariebmo-edu)
+[mariemo.io](https://mariemo.io/) : [github](https://github.com/mariebmo/mariebmo-frontend)
+
+---
+
+### [<img src="https://avatars.githubusercontent.com/u/95472145?s=200&v=4" width="24" />  Github - Education](https://github.com/mariebmo-edu)
 *Projects created for personal educucational purposes. It contains exams, courses, workshops*
 
-#### [<img src="https://avatars.githubusercontent.com/u/95485869?s=200&v=4" width="32"/>  Github - Personal Projects](https://github.com/mariebmo-personal-projects)
+### [<img src="https://avatars.githubusercontent.com/u/95485869?s=200&v=4" width="24"/>  Github - Personal Projects](https://github.com/mariebmo-personal-projects)
 *Personal projects that is not currently under development, to maintain a cleaner main profile*
 
-#### [<img src="https://avatars.githubusercontent.com/u/95485899?s=200&v=4" width="32"/>  Github - Challenges](https://github.com/mariebmo-challenges)
+### [<img src="https://avatars.githubusercontent.com/u/95485899?s=200&v=4" width="24"/>  Github - Challenges](https://github.com/mariebmo-challenges)
 *Projects that is based on challanges such as Advent of code or Hacktober*
 
 ---
